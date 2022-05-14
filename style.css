@@ -34,7 +34,7 @@ body {
     overflow: hidden;
     position: relative;
     z-index: 4;
-    box-shadow: 0px 5px 50px 0px rgba(230, 180, 14, 0.877), 0px 0px 0px 7px rgba(240, 173, 18, 0.749);
+    box-shadow: 0px 5px 50px 0px rgba(46, 119, 236, 0.792), 0px 0px 0px 7px rgba(50, 125, 224, 0.811);
 }
 .profile-card-img img{
     width: 100%;
